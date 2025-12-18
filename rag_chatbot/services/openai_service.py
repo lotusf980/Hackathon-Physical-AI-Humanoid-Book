@@ -14,7 +14,13 @@ class OpenAIService:
             self.client = None
             self.model = settings.openai_model
         else:
-            self.client = OpenAI(api_key=settings.openai_api_key)
+            # Initialize OpenAI client with a clean httpx client to avoid proxy issues
+            import httpx
+            http_client = httpx.Client()
+            self.client = OpenAI(
+                api_key=settings.openai_api_key,
+                http_client=http_client
+            )
             self.model = settings.openai_model
             logger.info(f"OpenAI service initialized with model: {self.model}")
 

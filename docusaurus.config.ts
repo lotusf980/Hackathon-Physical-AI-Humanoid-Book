@@ -14,16 +14,19 @@ const config: Config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
+  // For GitHub Pages deployment
+  trailingSlash: 'false',
+
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://lotusf980.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  // For GitHub pages deployment, it is '/<repository-name>/'
+  baseUrl: '/Hackathon-Physical-AI-Humanoid-Book/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'lotusf980', // Usually your GitHub org/user name.
+  projectName: 'Hackathon-Physical-AI-Humanoid-Book', // Usually your repo name.
 
   onBrokenLinks: 'warn',
 
@@ -44,7 +47,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/',
         },
         blog: {
           showReadingTime: true,
@@ -111,7 +114,7 @@ const config: Config = {
           ],
         },
         {
-          href: 'https://github.com/physical-ai-humanoid-robotics-book',
+          href: 'https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book',
           label: 'GitHub',
           position: 'right',
         },
@@ -151,7 +154,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book',
             },
           ],
         },
