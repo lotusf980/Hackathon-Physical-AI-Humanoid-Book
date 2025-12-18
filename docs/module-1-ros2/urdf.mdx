@@ -1,0 +1,53 @@
+---
+title: URDF for Humanoid Robots
+---
+
+# URDF for Humanoid Robots
+
+URDF (Unified Robot Description Format) is an XML file format used in ROS to describe the physical structure of a robot. A URDF file specifies the links, joints, and visual and collision properties of a robot.
+
+## Links
+
+Links represent the rigid bodies of the robot. Each link has a name, a visual representation, and collision properties. The visual representation is used for visualization, while the collision properties are used for collision detection.
+
+## Joints
+
+Joints connect links together. Each joint has a name, a type, and a parent and child link. The joint type specifies how the links are connected. Common joint types include:
+
+*   **Fixed**: The links are rigidly connected and cannot move relative to each other.
+*   **Revolute**: The links can rotate relative to each other around a single axis.
+*   **Continuous**: Similar to revolute, but without joint limits.
+*   **Prismatic**: The links can translate relative to each other along a single axis.
+*   **Floating**: The links can move freely relative to each other in 3D space.
+*   **Planar**: The links can move freely relative to each other in a plane.
+
+## Example: Humanoid Robot URDF
+
+A URDF for a humanoid robot typically includes links for the torso, head, arms, legs, and feet. Joints connect these links together to allow for movement. The URDF also specifies the visual and collision properties of each link, which are used for visualization and collision detection.
+
+Below is a minimal example of a URDF file:
+
+```xml
+<?xml version="1.0" ?>
+<robot name="my_humanoid">
+  <link name="base_link">
+    <visual>
+      <geometry>
+        <box size="0.1 0.1 0.1"/>
+      </geometry>
+    </visual>
+  </link>
+  <link name="head">
+    <visual>
+      <geometry>
+        <sphere radius="0.05"/>
+      </geometry>
+    </visual>
+  </link>
+  <joint name="base_to_head" type="fixed">
+    <parent link="base_link"/>
+    <child link="head"/>
+    <origin xyz="0 0 0.15"/>
+  </joint>
+</robot>
+```

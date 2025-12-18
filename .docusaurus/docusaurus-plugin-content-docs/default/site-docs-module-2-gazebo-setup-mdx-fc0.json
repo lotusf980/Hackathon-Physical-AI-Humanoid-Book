@@ -1,0 +1,26 @@
+{
+  "id": "module-2-gazebo/setup",
+  "title": "Setting up Gazebo and Building Environments",
+  "description": "Gazebo is a popular open-source robot simulator that allows you to create realistic 3D environments and simulate the behavior of robots in those environments.",
+  "source": "@site/docs/module-2-gazebo/setup.mdx",
+  "sourceDirName": "module-2-gazebo",
+  "slug": "/module-2-gazebo/setup",
+  "permalink": "/docs/module-2-gazebo/setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-gazebo/setup.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Setting up Gazebo and Building Environments"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2: The Digital Twin - Gazebo and Unity",
+    "permalink": "/docs/module-2-gazebo/introduction"
+  },
+  "next": {
+    "title": "Physics Concepts in Robotics Simulation",
+    "permalink": "/docs/module-2-gazebo/physics"
+  }
+}

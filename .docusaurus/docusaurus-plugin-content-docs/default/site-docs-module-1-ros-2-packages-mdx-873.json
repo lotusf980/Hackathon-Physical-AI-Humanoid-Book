@@ -1,0 +1,26 @@
+{
+  "id": "module-1-ros2/packages",
+  "title": "Creating and Running ROS 2 Packages",
+  "description": "In ROS 2, code is organized into packages. A package is a directory that contains a package.xml file, which describes the package, and a CMakeLists.txt file, which specifies how to build the package.",
+  "source": "@site/docs/module-1-ros2/packages.mdx",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/packages",
+  "permalink": "/docs/module-1-ros2/packages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/packages.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Creating and Running ROS 2 Packages"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "URDF for Humanoid Robots",
+    "permalink": "/docs/module-1-ros2/urdf"
+  },
+  "next": {
+    "title": "Module 2: The Digital Twin - Gazebo and Unity",
+    "permalink": "/docs/module-2-gazebo/introduction"
+  }
+}

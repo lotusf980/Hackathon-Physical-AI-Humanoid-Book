@@ -1,0 +1,26 @@
+{
+  "id": "module-2-gazebo/unity",
+  "title": "High-Fidelity Simulation with Unity",
+  "description": "Unity is a powerful game engine that can also be used for high-fidelity robotics simulation. It provides a rich set of tools and features for creating realistic and interactive environments.",
+  "source": "@site/docs/module-2-gazebo/unity.mdx",
+  "sourceDirName": "module-2-gazebo",
+  "slug": "/module-2-gazebo/unity",
+  "permalink": "/docs/module-2-gazebo/unity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-gazebo/unity.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "High-Fidelity Simulation with Unity"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simulating Sensors in Gazebo",
+    "permalink": "/docs/module-2-gazebo/sensors"
+  },
+  "next": {
+    "title": "Module 3: The AI-Robot Brain - NVIDIA Isaac",
+    "permalink": "/docs/module-3-isaac/introduction"
+  }
+}

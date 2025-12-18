@@ -1,0 +1,26 @@
+---
+title: Multi-Step Reasoning for Robotics
+---
+
+# Multi-Step Reasoning for Robotics
+
+Multi-step reasoning is a critical capability for robots that need to perform complex tasks. It involves breaking down a high-level goal into a sequence of smaller, more manageable sub-tasks, and then executing those sub-tasks in a logical order.
+
+## Key Components of Multi-Step Reasoning
+
+*   **Task Decomposition**: The ability to break down a complex task into smaller, more manageable sub-tasks. For example, the task "clean the room" might be decomposed into "find objects to clean", "pick up objects", "dispose of trash", and "place objects in correct locations".
+*   **Planning**: The ability to generate a sequence of actions that will achieve the desired goal. This involves considering the current state of the world, the desired goal state, and the available actions.
+*   **Execution Monitoring**: The ability to monitor the execution of the plan and adjust the plan as needed. For example, if an object is not where the robot expected it to be, the robot may need to adjust its plan to search for the object.
+
+## Example: Multi-Step Reasoning for a Cleaning Robot
+
+1.  **Goal**: Clean the room.
+2.  **Task Decomposition**:
+    *   Identify objects to be cleaned.
+    *   Navigate to each object.
+    *   Pick up the object.
+    *   Determine if the object is trash or misplaced.
+    *   If trash, navigate to trash can and dispose.
+    *   If misplaced, navigate to correct location and place.
+3.  **Planning**: For each sub-task, plan the necessary actions (e.g., path planning to navigate to an object).
+4.  **Execution Monitoring**: Monitor the robot's progress and adjust the plan if obstacles are encountered or objects are not found.

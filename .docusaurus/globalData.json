@@ -1,0 +1,138 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "capstone/guide",
+              "path": "/docs/capstone/guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/architecture",
+              "path": "/docs/module-1-ros2/architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/code_examples",
+              "path": "/docs/module-1-ros2/code_examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/introduction",
+              "path": "/docs/module-1-ros2/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/packages",
+              "path": "/docs/module-1-ros2/packages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/urdf",
+              "path": "/docs/module-1-ros2/urdf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-gazebo/introduction",
+              "path": "/docs/module-2-gazebo/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-gazebo/physics",
+              "path": "/docs/module-2-gazebo/physics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-gazebo/sensors",
+              "path": "/docs/module-2-gazebo/sensors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-gazebo/setup",
+              "path": "/docs/module-2-gazebo/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-gazebo/unity",
+              "path": "/docs/module-2-gazebo/unity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac/introduction",
+              "path": "/docs/module-3-isaac/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac/isaac_sim",
+              "path": "/docs/module-3-isaac/isaac_sim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac/rl",
+              "path": "/docs/module-3-isaac/rl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac/sim2real",
+              "path": "/docs/module-3-isaac/sim2real",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac/synthetic_data",
+              "path": "/docs/module-3-isaac/synthetic_data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac/vslam",
+              "path": "/docs/module-3-isaac/vslam",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla/introduction",
+              "path": "/docs/module-4-vla/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla/llm_planning",
+              "path": "/docs/module-4-vla/llm_planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla/reasoning",
+              "path": "/docs/module-4-vla/reasoning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla/whisper",
+              "path": "/docs/module-4-vla/whisper",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

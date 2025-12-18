@@ -1,0 +1,21 @@
+---
+title: Simulating Sensors in Gazebo
+---
+
+# Simulating Sensors in Gazebo
+
+Robots rely on sensors to perceive their environment. In simulation, we can model different types of sensors to mimic real-world sensor data. Here, we will explore simulating LiDAR, IMU, and depth cameras in Gazebo.
+
+## LiDAR
+
+LiDAR (Light Detection and Ranging) sensors emit laser beams and measure the time it takes for the beams to return, allowing them to create a 3D point cloud of the surrounding environment. In Gazebo, LiDAR sensors can be simulated using the `ray` sensor.
+
+## IMU
+
+IMU (Inertial Measurement Unit) sensors measure a robot's acceleration and angular velocity. In Gazebo, IMU sensors can be simulated using the `imu` sensor.
+
+## Depth Camera
+
+Depth cameras capture both color images and depth information, allowing robots to perceive the distance to objects in their environment. In Gazebo, depth cameras can be simulated using the `camera` sensor with the `depth` element enabled.
+
+Each sensor offers unique information about the simulated environment.

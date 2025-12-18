@@ -1,0 +1,19 @@
+---
+title: The Sim-to-Real Pipeline
+---
+
+# The Sim-to-Real Pipeline
+
+The sim-to-real pipeline refers to the process of transferring AI models trained in simulation to real-world robots. This is a crucial step in robotics development, as it allows you to leverage the benefits of simulation while still deploying your models on real robots.
+
+## Challenges of Sim-to-Real
+
+*   **Reality Gap**: The simulation environment is never a perfect replica of the real world. There will always be differences in lighting, textures, physics, and other factors.
+*   **Sensor Noise**: Real-world sensors are subject to noise and errors that are not present in simulation.
+*   **Actuator Limitations**: Real-world actuators have limitations in terms of speed, accuracy, and torque that are not always captured in simulation.
+
+## Techniques for Sim-to-Real
+
+*   **Domain Randomization**: Vary the simulation environment during training to make the model more robust to changes in the real world.
+*   **System Identification**: Use real-world data to identify the parameters of the robot and environment, and then use these parameters to create a more accurate simulation.
+*   **Adaptive Control**: Use control algorithms that can adapt to changes in the environment.

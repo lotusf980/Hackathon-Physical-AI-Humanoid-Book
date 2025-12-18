@@ -1,0 +1,26 @@
+{
+  "id": "module-1-ros2/architecture",
+  "title": "ROS 2 Architecture",
+  "description": "ROS 2 employs a distributed architecture where different software components communicate with each other through a middleware layer. The core concepts of ROS 2 architecture include:",
+  "source": "@site/docs/module-1-ros2/architecture.mdx",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/architecture",
+  "permalink": "/docs/module-1-ros2/architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/architecture.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ROS 2 Architecture"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1: The Robotic Nervous System - ROS 2",
+    "permalink": "/docs/module-1-ros2/introduction"
+  },
+  "next": {
+    "title": "rclpy Code Examples",
+    "permalink": "/docs/module-1-ros2/code_examples"
+  }
+}

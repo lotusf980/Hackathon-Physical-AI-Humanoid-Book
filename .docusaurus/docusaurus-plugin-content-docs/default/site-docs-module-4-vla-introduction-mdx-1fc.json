@@ -1,0 +1,26 @@
+{
+  "id": "module-4-vla/introduction",
+  "title": "Module 4: Vision-Language-Action",
+  "description": "Welcome to the fourth module of the Physical AI & Humanoid Robotics textbook! In this module, we will explore how to combine vision, language, and action to create robots that can understand and interact with the world in a more natural way.",
+  "source": "@site/docs/module-4-vla/introduction.mdx",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/introduction",
+  "permalink": "/docs/module-4-vla/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-vla/introduction.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Module 4: Vision-Language-Action"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Sim-to-Real Pipeline",
+    "permalink": "/docs/module-3-isaac/sim2real"
+  },
+  "next": {
+    "title": "Voice Recognition with Whisper",
+    "permalink": "/docs/module-4-vla/whisper"
+  }
+}

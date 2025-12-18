@@ -1,0 +1,27 @@
+---
+title: Voice Recognition with Whisper
+---
+
+# Voice Recognition with Whisper
+
+Whisper is a neural network developed by OpenAI that transcribes spoken language into text. It is a powerful tool for enabling robots to understand and respond to human voice commands.
+
+## Key Features of Whisper
+
+*   **Multilingual**: Whisper supports transcription in multiple languages.
+*   **Robustness**: Whisper is robust to noise and accents.
+*   **Open Source**: Whisper is available as an open-source library.
+
+## Using Whisper for Robotics
+
+To use Whisper for robotics, you can use the Whisper API to transcribe audio data into text. You can then use natural language processing (NLP) techniques to extract the meaning of the text and use it to control the robot.
+
+## Code Example
+
+```python
+import whisper
+
+model = whisper.load_model("base")
+result = model.transcribe("audio.mp3")
+print(result["text"])
+```

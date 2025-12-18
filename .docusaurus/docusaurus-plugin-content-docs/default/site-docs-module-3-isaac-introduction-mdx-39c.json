@@ -1,0 +1,26 @@
+{
+  "id": "module-3-isaac/introduction",
+  "title": "Module 3: The AI-Robot Brain - NVIDIA Isaac",
+  "description": "Welcome to the third module of the Physical AI & Humanoid Robotics textbook! In this module, we will explore the use of NVIDIA Isaac for AI perception and navigation in robotics.",
+  "source": "@site/docs/module-3-isaac/introduction.mdx",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/introduction",
+  "permalink": "/docs/module-3-isaac/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-isaac/introduction.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Module 3: The AI-Robot Brain - NVIDIA Isaac"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "High-Fidelity Simulation with Unity",
+    "permalink": "/docs/module-2-gazebo/unity"
+  },
+  "next": {
+    "title": "Using NVIDIA Isaac Sim",
+    "permalink": "/docs/module-3-isaac/isaac_sim"
+  }
+}

@@ -1,0 +1,34 @@
+---
+title: Setting up Gazebo and Building Environments
+---
+
+# Setting up Gazebo and Building Environments
+
+Gazebo is a popular open-source robot simulator that allows you to create realistic 3D environments and simulate the behavior of robots in those environments.
+
+## Installation
+
+To install Gazebo, you can use the following command:
+
+```bash
+sudo apt-get update
+sudo apt-get install gazebo9
+```
+
+## Creating a World
+
+A Gazebo world is a description of the environment in which the robot will be simulated. A world can contain models, lights, sensors, and other objects.
+
+To create a world, you can create a SDF (Simulation Description Format) file. SDF is an XML format that describes the properties of a simulation environment.
+
+## Adding Models
+
+Models are the objects that populate the Gazebo world. Models can be robots, sensors, or other objects. Gazebo comes with a library of pre-built models that you can use in your simulations. You can also create your own models using SDF.
+
+## Running Gazebo
+
+To run Gazebo with your world, you can use the following command:
+
+```bash
+gazebo <world_file>
+```

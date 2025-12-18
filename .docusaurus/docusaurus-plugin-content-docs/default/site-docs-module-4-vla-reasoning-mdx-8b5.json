@@ -1,0 +1,26 @@
+{
+  "id": "module-4-vla/reasoning",
+  "title": "Multi-Step Reasoning for Robotics",
+  "description": "Multi-step reasoning is a critical capability for robots that need to perform complex tasks. It involves breaking down a high-level goal into a sequence of smaller, more manageable sub-tasks, and then executing those sub-tasks in a logical order.",
+  "source": "@site/docs/module-4-vla/reasoning.mdx",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/reasoning",
+  "permalink": "/docs/module-4-vla/reasoning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-vla/reasoning.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Multi-Step Reasoning for Robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LLM Planning for Robotics",
+    "permalink": "/docs/module-4-vla/llm_planning"
+  },
+  "next": {
+    "title": "Capstone: Humanoid Robot Simulation",
+    "permalink": "/docs/capstone/guide"
+  }
+}

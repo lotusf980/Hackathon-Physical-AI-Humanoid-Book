@@ -1,0 +1,19 @@
+---
+title: VSLAM and Navigation with NVIDIA Isaac
+---
+
+# VSLAM and Navigation with NVIDIA Isaac
+
+VSLAM (Visual Simultaneous Localization and Mapping) is a technique used by robots to build a map of their environment while simultaneously estimating their pose within that map. Navigation builds upon the generated map, allowing the robot to plan and execute paths to reach desired goals. NVIDIA Isaac provides tools for implementing VSLAM and navigation algorithms.
+
+## VSLAM
+
+Isaac ROS includes VSLAM (Visual Simultaneous Localization and Mapping) algorithms, leveraging visual sensor data to build a map of the environment while simultaneously estimating the robot's pose. VSLAM is crucial for autonomous navigation in unknown environments.
+
+## Navigation
+
+Isaac ROS provides tools for path planning and execution, enabling robots to navigate autonomously within their environment. These tools include:
+
+*   **Global Planners**: Algorithms that plan a path from the robot's current location to a desired goal, taking into account the map of the environment.
+*   **Local Planners**: Algorithms that adjust the robot's trajectory in real-time to avoid obstacles and follow the global plan.
+*   **Control Algorithms**: Algorithms that control the robot's motors to execute the planned trajectory.

@@ -1,0 +1,26 @@
+{
+  "id": "module-3-isaac/isaac_sim",
+  "title": "Using NVIDIA Isaac Sim",
+  "description": "NVIDIA Isaac Sim is a powerful, photorealistic robot simulator that is part of the NVIDIA Isaac robotics platform. It provides a virtual environment for developing, testing, and training AI-powered robots.",
+  "source": "@site/docs/module-3-isaac/isaac_sim.mdx",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/isaac_sim",
+  "permalink": "/docs/module-3-isaac/isaac_sim",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-isaac/isaac_sim.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Using NVIDIA Isaac Sim"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3: The AI-Robot Brain - NVIDIA Isaac",
+    "permalink": "/docs/module-3-isaac/introduction"
+  },
+  "next": {
+    "title": "Generating Synthetic Data with NVIDIA Isaac Sim",
+    "permalink": "/docs/module-3-isaac/synthetic_data"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "module-1-ros2/urdf",
+  "title": "URDF for Humanoid Robots",
+  "description": "URDF (Unified Robot Description Format) is an XML file format used in ROS to describe the physical structure of a robot. A URDF file specifies the links, joints, and visual and collision properties of a robot.",
+  "source": "@site/docs/module-1-ros2/urdf.mdx",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/urdf",
+  "permalink": "/docs/module-1-ros2/urdf",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/urdf.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "URDF for Humanoid Robots"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rclpy Code Examples",
+    "permalink": "/docs/module-1-ros2/code_examples"
+  },
+  "next": {
+    "title": "Creating and Running ROS 2 Packages",
+    "permalink": "/docs/module-1-ros2/packages"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "module-3-isaac/sim2real",
+  "title": "The Sim-to-Real Pipeline",
+  "description": "The sim-to-real pipeline refers to the process of transferring AI models trained in simulation to real-world robots. This is a crucial step in robotics development, as it allows you to leverage the benefits of simulation while still deploying your models on real robots.",
+  "source": "@site/docs/module-3-isaac/sim2real.mdx",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/sim2real",
+  "permalink": "/docs/module-3-isaac/sim2real",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-isaac/sim2real.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The Sim-to-Real Pipeline"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reinforcement Learning for Robotics with NVIDIA Isaac",
+    "permalink": "/docs/module-3-isaac/rl"
+  },
+  "next": {
+    "title": "Module 4: Vision-Language-Action",
+    "permalink": "/docs/module-4-vla/introduction"
+  }
+}

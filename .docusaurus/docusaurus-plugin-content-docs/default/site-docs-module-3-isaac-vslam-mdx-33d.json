@@ -1,0 +1,26 @@
+{
+  "id": "module-3-isaac/vslam",
+  "title": "VSLAM and Navigation with NVIDIA Isaac",
+  "description": "VSLAM (Visual Simultaneous Localization and Mapping) is a technique used by robots to build a map of their environment while simultaneously estimating their pose within that map. Navigation builds upon the generated map, allowing the robot to plan and execute paths to reach desired goals. NVIDIA Isaac provides tools for implementing VSLAM and navigation algorithms.",
+  "source": "@site/docs/module-3-isaac/vslam.mdx",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/vslam",
+  "permalink": "/docs/module-3-isaac/vslam",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-isaac/vslam.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "VSLAM and Navigation with NVIDIA Isaac"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generating Synthetic Data with NVIDIA Isaac Sim",
+    "permalink": "/docs/module-3-isaac/synthetic_data"
+  },
+  "next": {
+    "title": "Reinforcement Learning for Robotics with NVIDIA Isaac",
+    "permalink": "/docs/module-3-isaac/rl"
+  }
+}

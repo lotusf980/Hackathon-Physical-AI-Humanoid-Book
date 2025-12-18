@@ -1,0 +1,26 @@
+---
+title: LLM Planning for Robotics
+---
+
+# LLM Planning for Robotics
+
+Large Language Models (LLMs) can be used to generate robot plans from natural language commands. This allows robots to perform complex tasks without the need for explicit programming.
+
+## LLMs for Robotics Planning
+
+1.  **Command Understanding**: The LLM parses natural language commands, extracting the user’s intent and required actions.
+2.  **Action Decomposition**: Decomposes high-level commands into a sequence of simpler actions that the robot can execute.
+3.  **Constraint Satisfaction**: Takes into account environmental constraints (obstacles, joint limits) to generate feasible plans.
+
+## Example
+
+User command: "Clean the room"
+
+LLM Output:
+
+1.  Locate all objects that are considered clutter (e.g., trash, misplaced items).
+2.  Navigate to each object.
+3.  Pick up the object.
+4.  If the object is trash, navigate to the trash can and drop the object.
+5.  If the object is misplaced, navigate to the correct location and place the object.
+6.  Repeat steps 1-5 until all clutter has been addressed.

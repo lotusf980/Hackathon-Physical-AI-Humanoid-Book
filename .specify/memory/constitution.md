@@ -1,55 +1,65 @@
-# [PROJECT_NAME] Constitution
+<!--
+Sync Impact Report:
+Version change: [old] -> 0.1.0
+Modified principles: None
+Added sections: None
+Removed sections: None
+Templates requiring updates:
+- plan-template.md: ⚠ pending
+- spec-template.md: ⚠ pending
+- tasks-template.md: ⚠ pending
+- commands/sp.constitution.md: ⚠ pending
+Runtime guidance docs requiring updates: None
+Follow-up TODOs:
+- RATIFICATION_DATE: Please provide the ratification date
+-->
+# AI-powered textbook on Physical AI & Humanoid Robotics Constitution
 <!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
+### Accuracy
 <!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
+All technical concepts must be correct and verified using primary and reliable sources.
 <!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
 
-### [PRINCIPLE_2_NAME]
+### Clarity
 <!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
+Content must be understandable for university-level students in Computer Science, Robotics, or AI.
 <!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
 
-### [PRINCIPLE_3_NAME]
+### Reproducibility
 <!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
+Every claim and example must be traceable, testable, and verifiable.
 <!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
 
-### [PRINCIPLE_4_NAME]
+### Practicality
 <!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
+Include hands-on examples, diagrams, and code blocks where necessary.
 <!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
 
-### [PRINCIPLE_5_NAME]
+### AI-Enhanced
 <!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
+Claude Code will assist in drafting but human review is mandatory.
 <!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
 
-### [PRINCIPLE_6_NAME]
+### Open Knowledge
+The book should be aligned with open-source and educational values.
 
-
-[PRINCIPLE__DESCRIPTION]
-
-## [SECTION_2_NAME]
+## Key Standards
 <!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
+All factual and technical claims must include citations. APA citation format is required. At least 50% of references must be peer-reviewed (journals, academic papers, research articles). Include: Diagrams (ASCII or Mermaid.js where possible), Code examples, Use-cases, Algorithms. Writing level: Flesch-Kincaid Grade 10–12. Content must be suitable for: University students, AI & Robotics beginners and intermediate learners, Technical practitioners.
 
-## [SECTION_3_NAME]
+## Structural Requirements
 <!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
 
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+The textbook must contain: Introduction to Physical AI, Fundamentals of Humanoid Robotics, History & Evolution of Robotics, Sensors & Actuators in Humanoids, Kinematics & Dynamics, Perception Systems (Vision, LIDAR, etc.), Control Systems, Machine Learning in Robotics, Reinforcement Learning for Movement, Human-Robot Interaction, Path Planning & Navigation, Simulation Tools (ROS / Gazebo / PyBullet), Ethics & Safety, Current Research & Case Studies, Future of Physical AI. All chapters must be modular and compatible with Docusaurus MD/MDX format.
 
 ## Governance
 <!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+All factual and technical claims must include citations. APA citation format is required. At least 50% of references must be peer-reviewed (journals, academic papers, research articles).
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
+**Version**: 0.1.0 | **Ratified**: TODO(RATIFICATION_DATE): Please provide the ratification date | **Last Amended**: 2025-12-06
 <!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->

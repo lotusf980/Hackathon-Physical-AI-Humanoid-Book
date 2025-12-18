@@ -1,0 +1,38 @@
+---
+title: Creating and Running ROS 2 Packages
+---
+
+# Creating and Running ROS 2 Packages
+
+In ROS 2, code is organized into packages. A package is a directory that contains a `package.xml` file, which describes the package, and a `CMakeLists.txt` file, which specifies how to build the package.
+
+## Creating a Package
+
+To create a ROS 2 package, you can use the `ros2 pkg create` command:
+
+```bash
+ros2 pkg create <package_name> --build-type ament_cmake --dependencies rclcpp rclpy std_msgs
+```
+
+This command will create a new directory with the specified package name and generate the necessary files.
+
+## Building a Package
+
+To build a ROS 2 package, you can use the `colcon build` command:
+
+```bash
+colcon build --packages-select <package_name>
+```
+
+This command will build the specified package and its dependencies.
+
+## Running a Package
+
+To run a ROS 2 package, you need to source the ROS 2 environment and then use the `ros2 run` command:
+
+```bash
+source /opt/ros/humble/setup.bash
+ros2 run <package_name> <executable_name>
+```
+
+This will execute the specified executable in the ROS 2 environment.

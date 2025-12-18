@@ -1,0 +1,26 @@
+{
+  "id": "module-3-isaac/rl",
+  "title": "Reinforcement Learning for Robotics with NVIDIA Isaac",
+  "description": "Reinforcement learning (RL) is a type of machine learning where an agent learns to make decisions in an environment to maximize a reward signal. RL is well-suited for robotics tasks, as it allows robots to learn complex behaviors through trial and error.",
+  "source": "@site/docs/module-3-isaac/rl.mdx",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/rl",
+  "permalink": "/docs/module-3-isaac/rl",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-isaac/rl.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Reinforcement Learning for Robotics with NVIDIA Isaac"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VSLAM and Navigation with NVIDIA Isaac",
+    "permalink": "/docs/module-3-isaac/vslam"
+  },
+  "next": {
+    "title": "The Sim-to-Real Pipeline",
+    "permalink": "/docs/module-3-isaac/sim2real"
+  }
+}
