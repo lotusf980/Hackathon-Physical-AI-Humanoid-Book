@@ -29,7 +29,7 @@ jobs:
       run: |
         npm install -g md-to-pdf
         mkdir -p pdf-output
-        md-to-pdf docs/**/*.mdx --output ./pdf-output/PhysicalAIHumanoidRobotics.pdf
+        md-to-pdf docs/**/*.mdx --out ./pdf-output/
 
     - name: Copy PDF to build directory
       run: |
