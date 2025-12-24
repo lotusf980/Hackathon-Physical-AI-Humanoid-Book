@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // For GitHub Pages deployment
-  trailingSlash: 'false',
+  trailingSlash: undefined,
 
   // Set the production url of your site here
   url: 'https://lotusf980.github.io',

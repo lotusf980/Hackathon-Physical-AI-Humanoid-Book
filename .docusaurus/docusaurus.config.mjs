@@ -27,7 +27,6 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "trailingSlash": false,
   "url": "https://lotusf980.github.io",
   "baseUrl": "/Hackathon-Physical-AI-Humanoid-Book/",
   "organizationName": "lotusf980",

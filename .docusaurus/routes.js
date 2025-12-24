@@ -4,19 +4,19 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/Hackathon-Physical-AI-Humanoid-Book/docs',
-    component: ComponentCreator('/Hackathon-Physical-AI-Humanoid-Book/docs', '9ab'),
+    component: ComponentCreator('/Hackathon-Physical-AI-Humanoid-Book/docs', 'd66'),
     routes: [
       {
         path: '/Hackathon-Physical-AI-Humanoid-Book/docs',
-        component: ComponentCreator('/Hackathon-Physical-AI-Humanoid-Book/docs', '8cd'),
+        component: ComponentCreator('/Hackathon-Physical-AI-Humanoid-Book/docs', '44d'),
         routes: [
           {
             path: '/Hackathon-Physical-AI-Humanoid-Book/docs',
-            component: ComponentCreator('/Hackathon-Physical-AI-Humanoid-Book/docs', '03a'),
+            component: ComponentCreator('/Hackathon-Physical-AI-Humanoid-Book/docs', 'd00'),
             routes: [
               {
-                path: '/Hackathon-Physical-AI-Humanoid-Book/docs',
-                component: ComponentCreator('/Hackathon-Physical-AI-Humanoid-Book/docs', 'd70'),
+                path: '/Hackathon-Physical-AI-Humanoid-Book/docs/',
+                component: ComponentCreator('/Hackathon-Physical-AI-Humanoid-Book/docs/', '317'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
