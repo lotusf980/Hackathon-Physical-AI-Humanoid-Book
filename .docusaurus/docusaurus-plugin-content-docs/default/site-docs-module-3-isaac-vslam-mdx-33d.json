@@ -5,7 +5,7 @@
   "source": "@site/docs/module-3-isaac/vslam.mdx",
   "sourceDirName": "module-3-isaac",
   "slug": "/module-3-isaac/vslam",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/vslam",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/vslam",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-3-isaac/vslam.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Generating Synthetic Data with NVIDIA Isaac Sim",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/synthetic_data"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/synthetic_data"
   },
   "next": {
     "title": "Reinforcement Learning for Robotics with NVIDIA Isaac",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/rl"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/rl"
   }
 }

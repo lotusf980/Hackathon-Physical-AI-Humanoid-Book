@@ -5,7 +5,7 @@
   "source": "@site/docs/module-1-ros2/introduction.mdx",
   "sourceDirName": "module-1-ros2",
   "slug": "/module-1-ros2/introduction",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/introduction",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/introduction",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-1-ros2/introduction.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Physical AI & Humanoid Robotics",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/"
   },
   "next": {
     "title": "ROS 2 Architecture",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/architecture"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/architecture"
   }
 }

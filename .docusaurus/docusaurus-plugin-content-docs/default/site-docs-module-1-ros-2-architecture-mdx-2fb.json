@@ -5,7 +5,7 @@
   "source": "@site/docs/module-1-ros2/architecture.mdx",
   "sourceDirName": "module-1-ros2",
   "slug": "/module-1-ros2/architecture",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/architecture",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/architecture",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-1-ros2/architecture.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 1: The Robotic Nervous System - ROS 2",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/introduction"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/introduction"
   },
   "next": {
     "title": "rclpy Code Examples",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/code_examples"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/code_examples"
   }
 }

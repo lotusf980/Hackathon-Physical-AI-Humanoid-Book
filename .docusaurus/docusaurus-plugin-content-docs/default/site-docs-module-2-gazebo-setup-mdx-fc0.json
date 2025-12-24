@@ -5,7 +5,7 @@
   "source": "@site/docs/module-2-gazebo/setup.mdx",
   "sourceDirName": "module-2-gazebo",
   "slug": "/module-2-gazebo/setup",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/setup",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-2-gazebo/setup",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-2-gazebo/setup.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 2: The Digital Twin - Gazebo and Unity",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/introduction"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-2-gazebo/introduction"
   },
   "next": {
     "title": "Physics Concepts in Robotics Simulation",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/physics"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-2-gazebo/physics"
   }
 }

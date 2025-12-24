@@ -5,7 +5,7 @@
   "source": "@site/docs/module-3-isaac/introduction.mdx",
   "sourceDirName": "module-3-isaac",
   "slug": "/module-3-isaac/introduction",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/introduction",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/introduction",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-3-isaac/introduction.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "High-Fidelity Simulation with Unity",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/unity"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-2-gazebo/unity"
   },
   "next": {
     "title": "Using NVIDIA Isaac Sim",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/isaac_sim"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/isaac_sim"
   }
 }

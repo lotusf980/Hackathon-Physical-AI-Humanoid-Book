@@ -5,7 +5,7 @@
   "source": "@site/docs/module-1-ros2/code_examples.mdx",
   "sourceDirName": "module-1-ros2",
   "slug": "/module-1-ros2/code_examples",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/code_examples",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/code_examples",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-1-ros2/code_examples.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "ROS 2 Architecture",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/architecture"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/architecture"
   },
   "next": {
     "title": "URDF for Humanoid Robots",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/urdf"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/urdf"
   }
 }

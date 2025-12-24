@@ -3,7 +3,7 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import BookChatbot from '@site/src/components/BookChatbot';
+// import BookChatbot from '@site/src/components/BookChatbot'; // Temporarily disabled for GitHub Pages deployment
 import styles from './index.module.css';
 
 function HomepageHeader() {

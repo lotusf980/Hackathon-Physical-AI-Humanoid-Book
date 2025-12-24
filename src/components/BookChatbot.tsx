@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import './BookChatbot.css';
 
 interface Message {
   id: string;
@@ -34,6 +35,21 @@ const BookChatbot: React.FC = () => {
     }
   };
 
+  const formatSources = (sources: string[] | undefined) => {
+    if (!sources || sources.length === 0) return null;
+
+    return (
+      <div className="book-chatbot-message-sources">
+        <strong>Sources:</strong>
+        <ul>
+          {sources.slice(0, 3).map((source, index) => (
+            <li key={index}>{source}</li>
+          ))}
+        </ul>
+      </div>
+    );
+  };
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!inputText.trim() || isLoading) return;
@@ -54,8 +70,8 @@ const BookChatbot: React.FC = () => {
       // Get API URL from meta tag or fallback
       const metaTag = document.querySelector('meta[name="chatbot-api-url"]');
       const apiUrl = metaTag
-        ? (metaTag as HTMLElement).getAttribute('content') || 'http://localhost:8000/api/v1/chat'
-        : 'http://localhost:8000/api/v1/chat';
+        ? (metaTag as HTMLElement).getAttribute('content') || 'https://your-deployed-backend-url.com/api/v1/chat'
+        : 'https://your-deployed-backend-url.com/api/v1/chat';
 
       console.log('Sending request to:', apiUrl);
       console.log('Request body:', {
@@ -100,25 +116,25 @@ const BookChatbot: React.FC = () => {
 
       // Handle both direct response and ChatResponse model format
       let responseText = '';
-      let responseSources = [];
+      let responseSources: string[] = [];
 
       if (typeof data === 'string') {
         responseText = data;
       } else if (typeof data === 'object') {
         // Check if it's the ChatResponse format
         if ('response' in data) {
-          responseText = data.response;
-          responseSources = Array.isArray(data.sources) ? data.sources : [];
+          responseText = data.response as string;
+          responseSources = Array.isArray(data.sources) ? data.sources as string[] : [];
         } else if ('answer' in data) {
           // Fallback to 'answer' field if present
-          responseText = data.answer;
-          responseSources = Array.isArray(data.sources) ? data.sources : [];
+          responseText = data.answer as string;
+          responseSources = Array.isArray(data.sources) ? data.sources as string[] : [];
         } else {
           // Try to find any text field in the response
           const textFields = ['response', 'answer', 'text', 'message'];
           for (const field of textFields) {
-            if (field in data && typeof data[field] === 'string') {
-              responseText = data[field];
+            if (field in data && typeof (data as any)[field] === 'string') {
+              responseText = (data as any)[field];
               break;
             }
           }
@@ -148,9 +164,9 @@ const BookChatbot: React.FC = () => {
 
       if (error instanceof TypeError) {
         if (error.message.includes('fetch')) {
-          errorMessageText = 'Unable to connect to the chatbot server. Please make sure the backend is running on http://localhost:8000.';
+          errorMessageText = 'Unable to connect to the chatbot server. The backend may not be available.';
         } else if (error.message.includes('network')) {
-          errorMessageText = 'Network error occurred. Please check your connection and ensure the backend is running.';
+          errorMessageText = 'Network error occurred. Please check your connection.';
         } else {
           errorMessageText = `Network error: ${error.message}`;
         }
@@ -182,21 +198,6 @@ const BookChatbot: React.FC = () => {
       e.preventDefault();
       handleSubmit(e as any);
     }
-  };
-
-  const formatSources = (sources: string[] | undefined) => {
-    if (!sources || sources.length === 0) return null;
-
-    return (
-      <div className="book-chatbot-message-sources">
-        <strong>Sources:</strong>
-        <ul>
-          {sources.slice(0, 3).map((source, index) => (
-            <li key={index}>{source}</li>
-          ))}
-        </ul>
-      </div>
-    );
   };
 
   return (

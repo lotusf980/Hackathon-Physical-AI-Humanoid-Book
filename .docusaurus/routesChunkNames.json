@@ -1,110 +1,110 @@
 {
-  "/Hackathon-Physical-AI-Humanoid-Book/docs-d66": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "aba21aa0"
-    }
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs-44d": {
-    "__comp": "a7bd4aaa",
-    "__props": "354e0b4c"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs-d00": {
-    "__comp": "a94703ab"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/-317": {
-    "__comp": "17896441",
-    "content": "4edc808e"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/capstone/guide-1e0": {
-    "__comp": "17896441",
-    "content": "0acc19ac"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/architecture-bad": {
-    "__comp": "17896441",
-    "content": "2fbd9482"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/code_examples-021": {
-    "__comp": "17896441",
-    "content": "1764006f"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/introduction-bf6": {
-    "__comp": "17896441",
-    "content": "d35ad833"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/packages-718": {
-    "__comp": "17896441",
-    "content": "873a2dbd"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/urdf-a21": {
-    "__comp": "17896441",
-    "content": "1b39fcf4"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/introduction-480": {
-    "__comp": "17896441",
-    "content": "b0433150"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/physics-ca8": {
-    "__comp": "17896441",
-    "content": "657ff107"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/sensors-a35": {
-    "__comp": "17896441",
-    "content": "661a35a0"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/setup-c22": {
-    "__comp": "17896441",
-    "content": "fc064c96"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/unity-574": {
-    "__comp": "17896441",
-    "content": "8042eed8"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/introduction-6a1": {
-    "__comp": "17896441",
-    "content": "39c3975a"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/isaac_sim-939": {
-    "__comp": "17896441",
-    "content": "9cf61daa"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/rl-b0b": {
-    "__comp": "17896441",
-    "content": "7353212d"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/sim2real-c3e": {
-    "__comp": "17896441",
-    "content": "86292c3a"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/synthetic_data-887": {
-    "__comp": "17896441",
-    "content": "79a6b201"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/vslam-ee6": {
-    "__comp": "17896441",
-    "content": "33da6b90"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-4-vla/introduction-a26": {
-    "__comp": "17896441",
-    "content": "1fc7cf39"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-4-vla/llm_planning-26e": {
-    "__comp": "17896441",
-    "content": "4d59ba00"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-4-vla/reasoning-f40": {
-    "__comp": "17896441",
-    "content": "8b552701"
-  },
-  "/Hackathon-Physical-AI-Humanoid-Book/docs/module-4-vla/whisper-965": {
-    "__comp": "17896441",
-    "content": "b46f53bf"
-  },
   "/Hackathon-Physical-AI-Humanoid-Book/-de3": {
     "__comp": "1df93b7f",
     "__context": {
       "plugin": "a7456010"
     },
     "config": "5e9f5e1a"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/-008": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/-5ca": {
+    "__comp": "a7bd4aaa",
+    "__props": "ea964b60"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/-e26": {
+    "__comp": "a94703ab"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/capstone/guide/-bc0": {
+    "__comp": "17896441",
+    "content": "0acc19ac"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/architecture/-dfd": {
+    "__comp": "17896441",
+    "content": "2fbd9482"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/code_examples/-e9a": {
+    "__comp": "17896441",
+    "content": "1764006f"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/introduction/-274": {
+    "__comp": "17896441",
+    "content": "d35ad833"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/packages/-df8": {
+    "__comp": "17896441",
+    "content": "873a2dbd"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/urdf/-71d": {
+    "__comp": "17896441",
+    "content": "1b39fcf4"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-2-gazebo/introduction/-e3f": {
+    "__comp": "17896441",
+    "content": "b0433150"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-2-gazebo/physics/-a36": {
+    "__comp": "17896441",
+    "content": "657ff107"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-2-gazebo/sensors/-796": {
+    "__comp": "17896441",
+    "content": "661a35a0"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-2-gazebo/setup/-4f4": {
+    "__comp": "17896441",
+    "content": "fc064c96"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-2-gazebo/unity/-ddf": {
+    "__comp": "17896441",
+    "content": "8042eed8"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/introduction/-411": {
+    "__comp": "17896441",
+    "content": "39c3975a"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/isaac_sim/-579": {
+    "__comp": "17896441",
+    "content": "9cf61daa"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/rl/-2d9": {
+    "__comp": "17896441",
+    "content": "7353212d"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/sim2real/-820": {
+    "__comp": "17896441",
+    "content": "86292c3a"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/synthetic_data/-edf": {
+    "__comp": "17896441",
+    "content": "79a6b201"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/vslam/-d7f": {
+    "__comp": "17896441",
+    "content": "33da6b90"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-4-vla/introduction/-b60": {
+    "__comp": "17896441",
+    "content": "1fc7cf39"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-4-vla/llm_planning/-96c": {
+    "__comp": "17896441",
+    "content": "4d59ba00"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-4-vla/reasoning/-c8b": {
+    "__comp": "17896441",
+    "content": "8b552701"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/module-4-vla/whisper/-4d9": {
+    "__comp": "17896441",
+    "content": "b46f53bf"
+  },
+  "/Hackathon-Physical-AI-Humanoid-Book/-108": {
+    "__comp": "17896441",
+    "content": "4edc808e"
   }
 }

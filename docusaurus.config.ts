@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // For GitHub Pages deployment
-  trailingSlash: undefined,
+  trailingSlash: true,
 
   // Set the production url of your site here
   url: 'https://lotusf980.github.io',
@@ -44,6 +44,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.js',
+          // Set route base path to root for proper GitHub Pages routing
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:

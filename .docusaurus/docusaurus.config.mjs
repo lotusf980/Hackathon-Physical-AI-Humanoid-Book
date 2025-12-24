@@ -27,6 +27,7 @@ export default {
     },
     "experimental_router": "browser"
   },
+  "trailingSlash": true,
   "url": "https://lotusf980.github.io",
   "baseUrl": "/Hackathon-Physical-AI-Humanoid-Book/",
   "organizationName": "lotusf980",
@@ -46,6 +47,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
+          "routeBasePath": "/",
           "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/"
         },
         "blog": {
