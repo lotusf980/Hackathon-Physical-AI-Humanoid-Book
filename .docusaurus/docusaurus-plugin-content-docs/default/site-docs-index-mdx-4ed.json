@@ -5,7 +5,7 @@
   "source": "@site/docs/index.mdx",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/index.mdx",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Module 1: The Robotic Nervous System - ROS 2",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/introduction"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/introduction"
   }
 }

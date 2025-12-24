@@ -5,7 +5,7 @@
   "source": "@site/docs/module-3-isaac/sim2real.mdx",
   "sourceDirName": "module-3-isaac",
   "slug": "/module-3-isaac/sim2real",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/sim2real",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/sim2real",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-3-isaac/sim2real.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Reinforcement Learning for Robotics with NVIDIA Isaac",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/rl"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/rl"
   },
   "next": {
     "title": "Module 4: Vision-Language-Action",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-4-vla/introduction"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-4-vla/introduction"
   }
 }

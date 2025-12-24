@@ -5,7 +5,7 @@
   "source": "@site/docs/module-2-gazebo/introduction.mdx",
   "sourceDirName": "module-2-gazebo",
   "slug": "/module-2-gazebo/introduction",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-2-gazebo/introduction",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/introduction",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-2-gazebo/introduction.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Creating and Running ROS 2 Packages",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/packages"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/packages"
   },
   "next": {
     "title": "Setting up Gazebo and Building Environments",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-2-gazebo/setup"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/setup"
   }
 }

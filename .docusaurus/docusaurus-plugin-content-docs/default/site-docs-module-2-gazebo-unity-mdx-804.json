@@ -5,7 +5,7 @@
   "source": "@site/docs/module-2-gazebo/unity.mdx",
   "sourceDirName": "module-2-gazebo",
   "slug": "/module-2-gazebo/unity",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-2-gazebo/unity",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/unity",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-2-gazebo/unity.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Simulating Sensors in Gazebo",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-2-gazebo/sensors"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/sensors"
   },
   "next": {
     "title": "Module 3: The AI-Robot Brain - NVIDIA Isaac",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/introduction"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/introduction"
   }
 }

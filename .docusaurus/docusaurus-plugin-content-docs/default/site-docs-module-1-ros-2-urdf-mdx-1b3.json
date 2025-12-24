@@ -5,7 +5,7 @@
   "source": "@site/docs/module-1-ros2/urdf.mdx",
   "sourceDirName": "module-1-ros2",
   "slug": "/module-1-ros2/urdf",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/urdf",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/urdf",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-1-ros2/urdf.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "rclpy Code Examples",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/code_examples"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/code_examples"
   },
   "next": {
     "title": "Creating and Running ROS 2 Packages",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/packages"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/packages"
   }
 }

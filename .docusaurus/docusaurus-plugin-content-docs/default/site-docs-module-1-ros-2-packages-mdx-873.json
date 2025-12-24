@@ -5,7 +5,7 @@
   "source": "@site/docs/module-1-ros2/packages.mdx",
   "sourceDirName": "module-1-ros2",
   "slug": "/module-1-ros2/packages",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/packages",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/packages",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-1-ros2/packages.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "URDF for Humanoid Robots",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-1-ros2/urdf"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-1-ros2/urdf"
   },
   "next": {
     "title": "Module 2: The Digital Twin - Gazebo and Unity",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-2-gazebo/introduction"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/introduction"
   }
 }

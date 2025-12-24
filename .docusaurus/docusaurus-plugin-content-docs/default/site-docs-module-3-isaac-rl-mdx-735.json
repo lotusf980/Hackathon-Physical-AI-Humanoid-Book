@@ -5,7 +5,7 @@
   "source": "@site/docs/module-3-isaac/rl.mdx",
   "sourceDirName": "module-3-isaac",
   "slug": "/module-3-isaac/rl",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/rl",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/rl",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-3-isaac/rl.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "VSLAM and Navigation with NVIDIA Isaac",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/vslam"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/vslam"
   },
   "next": {
     "title": "The Sim-to-Real Pipeline",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/sim2real"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/sim2real"
   }
 }

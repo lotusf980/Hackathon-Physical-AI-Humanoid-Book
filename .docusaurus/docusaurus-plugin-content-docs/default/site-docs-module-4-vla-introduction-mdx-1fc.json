@@ -5,7 +5,7 @@
   "source": "@site/docs/module-4-vla/introduction.mdx",
   "sourceDirName": "module-4-vla",
   "slug": "/module-4-vla/introduction",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-4-vla/introduction",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-4-vla/introduction",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-4-vla/introduction.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "The Sim-to-Real Pipeline",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-3-isaac/sim2real"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-3-isaac/sim2real"
   },
   "next": {
     "title": "Voice Recognition with Whisper",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-4-vla/whisper"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-4-vla/whisper"
   }
 }

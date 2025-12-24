@@ -44,8 +44,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.js',
-          // Set route base path to root for proper GitHub Pages routing
-          routeBasePath: '/',
+          // Use default route base path to avoid conflicts with home page
+          routeBasePath: 'docs',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:

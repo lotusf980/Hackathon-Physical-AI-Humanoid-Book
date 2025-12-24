@@ -103,8 +103,8 @@
     "d35ad833": [
       740
     ],
-    "ea964b60": [
-      940
+    "d8b35ab2": [
+      804
     ],
     "fc064c96": [
       806
@@ -122,18 +122,18 @@
     "25": {
       "js": [
         {
-          "file": "assets/js/1764006f.ef34017f.js",
-          "hash": "0142425961df5b51",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/1764006f.ef34017f.js"
+          "file": "assets/js/1764006f.150c1ce8.js",
+          "hash": "6d71c8e2cd17a47e",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/1764006f.150c1ce8.js"
         }
       ]
     },
     "36": {
       "js": [
         {
-          "file": "assets/js/7353212d.d87cb0c0.js",
-          "hash": "5f7846ef1444d9a8",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/7353212d.d87cb0c0.js"
+          "file": "assets/js/7353212d.1a4480a3.js",
+          "hash": "2ca3bdfad83c6a3b",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/7353212d.1a4480a3.js"
         }
       ]
     },
@@ -149,9 +149,9 @@
     "91": {
       "js": [
         {
-          "file": "assets/js/8042eed8.f9549ccf.js",
-          "hash": "b0d13e19d3b1cb7e",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/8042eed8.f9549ccf.js"
+          "file": "assets/js/8042eed8.7831f407.js",
+          "hash": "27bb5e2beedc8201",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/8042eed8.7831f407.js"
         }
       ]
     },
@@ -167,36 +167,36 @@
     "109": {
       "js": [
         {
-          "file": "assets/js/b0433150.0e5ce77f.js",
-          "hash": "25f278e13ef48988",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/b0433150.0e5ce77f.js"
+          "file": "assets/js/b0433150.f7e6f3e2.js",
+          "hash": "d48da63c2655fcc8",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/b0433150.f7e6f3e2.js"
         }
       ]
     },
     "169": {
       "js": [
         {
-          "file": "assets/js/1b39fcf4.f52f8845.js",
-          "hash": "f31412ceaf04543d",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/1b39fcf4.f52f8845.js"
+          "file": "assets/js/1b39fcf4.64c4de09.js",
+          "hash": "cd2aad4d11819324",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/1b39fcf4.64c4de09.js"
         }
       ]
     },
     "187": {
       "js": [
         {
-          "file": "assets/js/1fc7cf39.55c9018e.js",
-          "hash": "a8c2884697a3a8b1",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/1fc7cf39.55c9018e.js"
+          "file": "assets/js/1fc7cf39.29282ffa.js",
+          "hash": "6e1958504f6fdb6a",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/1fc7cf39.29282ffa.js"
         }
       ]
     },
     "202": {
       "js": [
         {
-          "file": "assets/js/9cf61daa.caeb442d.js",
-          "hash": "7e65ff5ac4302759",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/9cf61daa.caeb442d.js"
+          "file": "assets/js/9cf61daa.35607ae4.js",
+          "hash": "619234deb68a2b66",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/9cf61daa.35607ae4.js"
         }
       ]
     },
@@ -221,27 +221,27 @@
     "308": {
       "js": [
         {
-          "file": "assets/js/4edc808e.5dbdadbb.js",
-          "hash": "2622875a997bac98",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/4edc808e.5dbdadbb.js"
+          "file": "assets/js/4edc808e.e6b22b1c.js",
+          "hash": "0ea4ae49f0d87849",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/4edc808e.e6b22b1c.js"
         }
       ]
     },
     "354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.e1cb63b0.js",
-          "hash": "3ea3244600a76df3",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/runtime~main.e1cb63b0.js"
+          "file": "assets/js/runtime~main.c5a0488f.js",
+          "hash": "ffa79b0c05727d25",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/runtime~main.c5a0488f.js"
         }
       ]
     },
     "394": {
       "js": [
         {
-          "file": "assets/js/4d59ba00.3a46bb50.js",
-          "hash": "8e6099f279bf867a",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/4d59ba00.3a46bb50.js"
+          "file": "assets/js/4d59ba00.87fa7d5b.js",
+          "hash": "0c47639a233b1bf7",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/4d59ba00.87fa7d5b.js"
         }
       ]
     },
@@ -257,18 +257,18 @@
     "501": {
       "js": [
         {
-          "file": "assets/js/b46f53bf.75b35ede.js",
-          "hash": "dc1365e87e347df3",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/b46f53bf.75b35ede.js"
+          "file": "assets/js/b46f53bf.b82e398d.js",
+          "hash": "366d8b509f3e5b54",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/b46f53bf.b82e398d.js"
         }
       ]
     },
     "536": {
       "js": [
         {
-          "file": "assets/js/873a2dbd.1073478d.js",
-          "hash": "341a894e9fae2d99",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/873a2dbd.1073478d.js"
+          "file": "assets/js/873a2dbd.be61f37b.js",
+          "hash": "bb357206e6fa9e9e",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/873a2dbd.be61f37b.js"
         }
       ]
     },
@@ -284,18 +284,18 @@
     "591": {
       "js": [
         {
-          "file": "assets/js/657ff107.d8e27221.js",
-          "hash": "ef5c570627bb9977",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/657ff107.d8e27221.js"
+          "file": "assets/js/657ff107.829b3e17.js",
+          "hash": "49bed05c61a31948",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/657ff107.829b3e17.js"
         }
       ]
     },
     "607": {
       "js": [
         {
-          "file": "assets/js/39c3975a.f79c7606.js",
-          "hash": "fee69a7f285c2520",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/39c3975a.f79c7606.js"
+          "file": "assets/js/39c3975a.420a379f.js",
+          "hash": "39b0b2ce44958cb0",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/39c3975a.420a379f.js"
         }
       ]
     },
@@ -311,45 +311,45 @@
     "670": {
       "js": [
         {
-          "file": "assets/js/0acc19ac.2b42d95e.js",
-          "hash": "1891e7a15a6513c0",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/0acc19ac.2b42d95e.js"
+          "file": "assets/js/0acc19ac.caedef50.js",
+          "hash": "676791907edfbfa5",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/0acc19ac.caedef50.js"
         }
       ]
     },
     "694": {
       "js": [
         {
-          "file": "assets/js/661a35a0.c013dcda.js",
-          "hash": "d56631468d3d269d",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/661a35a0.c013dcda.js"
+          "file": "assets/js/661a35a0.96878218.js",
+          "hash": "3038baa5f8ad95cb",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/661a35a0.96878218.js"
         }
       ]
     },
     "719": {
       "js": [
         {
-          "file": "assets/js/79a6b201.3444fbee.js",
-          "hash": "db1899a4e4fea052",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/79a6b201.3444fbee.js"
+          "file": "assets/js/79a6b201.22e7abdb.js",
+          "hash": "df88039d125a9fc0",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/79a6b201.22e7abdb.js"
         }
       ]
     },
     "735": {
       "js": [
         {
-          "file": "assets/js/33da6b90.0d8245ff.js",
-          "hash": "339c69512b9e2a05",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/33da6b90.0d8245ff.js"
+          "file": "assets/js/33da6b90.bbc40231.js",
+          "hash": "ed3e5cbe66a2aab0",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/33da6b90.bbc40231.js"
         }
       ]
     },
     "740": {
       "js": [
         {
-          "file": "assets/js/d35ad833.29f59b6e.js",
-          "hash": "4467cc7e6f963a50",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/d35ad833.29f59b6e.js"
+          "file": "assets/js/d35ad833.44c2da7c.js",
+          "hash": "21b9fad928c42c88",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/d35ad833.44c2da7c.js"
         }
       ]
     },
@@ -365,18 +365,27 @@
     "792": {
       "js": [
         {
-          "file": "assets/js/main.ee43bd1e.js",
-          "hash": "c555ca914a5cb349",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/main.ee43bd1e.js"
+          "file": "assets/js/main.8eaae432.js",
+          "hash": "3e81ce90344fb4b1",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/main.8eaae432.js"
+        }
+      ]
+    },
+    "804": {
+      "js": [
+        {
+          "file": "assets/js/d8b35ab2.cedcbf00.js",
+          "hash": "44cee0e64de58bb1",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/d8b35ab2.cedcbf00.js"
         }
       ]
     },
     "806": {
       "js": [
         {
-          "file": "assets/js/fc064c96.6dafdd0a.js",
-          "hash": "256720c906c26247",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/fc064c96.6dafdd0a.js"
+          "file": "assets/js/fc064c96.5f089242.js",
+          "hash": "debf74a4b60f0ea6",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/fc064c96.5f089242.js"
         }
       ]
     },
@@ -392,36 +401,27 @@
     "939": {
       "js": [
         {
-          "file": "assets/js/86292c3a.4256d4a5.js",
-          "hash": "57f305b53f57f6f0",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/86292c3a.4256d4a5.js"
-        }
-      ]
-    },
-    "940": {
-      "js": [
-        {
-          "file": "assets/js/ea964b60.ed5c2f17.js",
-          "hash": "9211bdb324c8f631",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/ea964b60.ed5c2f17.js"
+          "file": "assets/js/86292c3a.9fa942aa.js",
+          "hash": "646e23eb1bab5bc7",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/86292c3a.9fa942aa.js"
         }
       ]
     },
     "988": {
       "js": [
         {
-          "file": "assets/js/8b552701.e9f6ebb9.js",
-          "hash": "8758c6af97210bd5",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/8b552701.e9f6ebb9.js"
+          "file": "assets/js/8b552701.d25d4bf2.js",
+          "hash": "c30f98647b1607bc",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/8b552701.d25d4bf2.js"
         }
       ]
     },
     "996": {
       "js": [
         {
-          "file": "assets/js/2fbd9482.029e466e.js",
-          "hash": "553565772517eed6",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/2fbd9482.029e466e.js"
+          "file": "assets/js/2fbd9482.4d550d50.js",
+          "hash": "9193bd36fb6180c3",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/2fbd9482.4d550d50.js"
         }
       ]
     }

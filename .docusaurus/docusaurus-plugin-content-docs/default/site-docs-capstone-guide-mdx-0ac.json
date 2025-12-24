@@ -5,7 +5,7 @@
   "source": "@site/docs/capstone/guide.mdx",
   "sourceDirName": "capstone",
   "slug": "/capstone/guide",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/capstone/guide",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/capstone/guide",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/capstone/guide.mdx",
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Multi-Step Reasoning for Robotics",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-4-vla/reasoning"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-4-vla/reasoning"
   }
 }

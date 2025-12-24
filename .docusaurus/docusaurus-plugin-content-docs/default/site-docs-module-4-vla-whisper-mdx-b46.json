@@ -5,7 +5,7 @@
   "source": "@site/docs/module-4-vla/whisper.mdx",
   "sourceDirName": "module-4-vla",
   "slug": "/module-4-vla/whisper",
-  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-4-vla/whisper",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-4-vla/whisper",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-4-vla/whisper.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 4: Vision-Language-Action",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-4-vla/introduction"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-4-vla/introduction"
   },
   "next": {
     "title": "LLM Planning for Robotics",
-    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/module-4-vla/llm_planning"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-4-vla/llm_planning"
   }
 }
