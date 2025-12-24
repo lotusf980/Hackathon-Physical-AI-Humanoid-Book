@@ -5,10 +5,10 @@
   "source": "@site/docs/module-4-vla/llm_planning.mdx",
   "sourceDirName": "module-4-vla",
   "slug": "/module-4-vla/llm_planning",
-  "permalink": "/docs/module-4-vla/llm_planning",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-4-vla/llm_planning",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-vla/llm_planning.mdx",
+  "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-4-vla/llm_planning.mdx",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Voice Recognition with Whisper",
-    "permalink": "/docs/module-4-vla/whisper"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-4-vla/whisper"
   },
   "next": {
     "title": "Multi-Step Reasoning for Robotics",
-    "permalink": "/docs/module-4-vla/reasoning"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-4-vla/reasoning"
   }
 }

@@ -90,7 +90,7 @@ const Chatbot: React.FC = () => {
       // Get API URL from environment or use default
       const apiUrl = process.env.REACT_APP_CHATBOT_API_URL ||
                     document.querySelector('meta[name="chatbot-api-url"]')?.getAttribute('content') ||
-                    'http://localhost:8000/api/v1/chat';
+                    'https://your-deployed-backend-url.com/api/v1/chat';
 
       // Call the FastAPI backend
       const response = await fetch(apiUrl, {

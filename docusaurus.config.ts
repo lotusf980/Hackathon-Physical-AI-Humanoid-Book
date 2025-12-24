@@ -76,7 +76,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     metadata: [
-      {name: 'chatbot-api-url', content: 'http://localhost:8000/api/v1/chat'},
+      {name: 'chatbot-api-url', content: 'https://your-deployed-backend-url.com/api/v1/chat'},
     ],
     navbar: {
       title: 'Physical AI & Humanoid Robotics',

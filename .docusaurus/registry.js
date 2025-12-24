@@ -1,5 +1,4 @@
 export default {
-  "0058b4c6": [() => import(/* webpackChunkName: "0058b4c6" */ "@generated/docusaurus-plugin-content-docs/default/p/docs-175.json"), "@generated/docusaurus-plugin-content-docs/default/p/docs-175.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/p/docs-175.json")],
   "0acc19ac": [() => import(/* webpackChunkName: "0acc19ac" */ "@site/docs/capstone/guide.mdx"), "@site/docs/capstone/guide.mdx", require.resolveWeak("@site/docs/capstone/guide.mdx")],
   "1764006f": [() => import(/* webpackChunkName: "1764006f" */ "@site/docs/module-1-ros2/code_examples.mdx"), "@site/docs/module-1-ros2/code_examples.mdx", require.resolveWeak("@site/docs/module-1-ros2/code_examples.mdx")],
   "17896441": [() => import(/* webpackChunkName: "17896441" */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
@@ -8,6 +7,7 @@ export default {
   "1fc7cf39": [() => import(/* webpackChunkName: "1fc7cf39" */ "@site/docs/module-4-vla/introduction.mdx"), "@site/docs/module-4-vla/introduction.mdx", require.resolveWeak("@site/docs/module-4-vla/introduction.mdx")],
   "2fbd9482": [() => import(/* webpackChunkName: "2fbd9482" */ "@site/docs/module-1-ros2/architecture.mdx"), "@site/docs/module-1-ros2/architecture.mdx", require.resolveWeak("@site/docs/module-1-ros2/architecture.mdx")],
   "33da6b90": [() => import(/* webpackChunkName: "33da6b90" */ "@site/docs/module-3-isaac/vslam.mdx"), "@site/docs/module-3-isaac/vslam.mdx", require.resolveWeak("@site/docs/module-3-isaac/vslam.mdx")],
+  "354e0b4c": [() => import(/* webpackChunkName: "354e0b4c" */ "@generated/docusaurus-plugin-content-docs/default/p/hackathon-physical-ai-humanoid-book-docs-a32.json"), "@generated/docusaurus-plugin-content-docs/default/p/hackathon-physical-ai-humanoid-book-docs-a32.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/p/hackathon-physical-ai-humanoid-book-docs-a32.json")],
   "39c3975a": [() => import(/* webpackChunkName: "39c3975a" */ "@site/docs/module-3-isaac/introduction.mdx"), "@site/docs/module-3-isaac/introduction.mdx", require.resolveWeak("@site/docs/module-3-isaac/introduction.mdx")],
   "4d59ba00": [() => import(/* webpackChunkName: "4d59ba00" */ "@site/docs/module-4-vla/llm_planning.mdx"), "@site/docs/module-4-vla/llm_planning.mdx", require.resolveWeak("@site/docs/module-4-vla/llm_planning.mdx")],
   "4edc808e": [() => import(/* webpackChunkName: "4edc808e" */ "@site/docs/index.mdx"), "@site/docs/index.mdx", require.resolveWeak("@site/docs/index.mdx")],

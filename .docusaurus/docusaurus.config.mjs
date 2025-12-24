@@ -27,10 +27,11 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "trailingSlash": false,
+  "url": "https://lotusf980.github.io",
+  "baseUrl": "/Hackathon-Physical-AI-Humanoid-Book/",
+  "organizationName": "lotusf980",
+  "projectName": "Hackathon-Physical-AI-Humanoid-Book",
   "onBrokenLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
@@ -46,7 +47,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/"
         },
         "blog": {
           "showReadingTime": true,
@@ -77,7 +78,7 @@ export default {
     "metadata": [
       {
         "name": "chatbot-api-url",
-        "content": "http://localhost:8000/api/v1/chat"
+        "content": "https://your-deployed-backend-url.com/api/v1/chat"
       }
     ],
     "navbar": {
@@ -116,7 +117,7 @@ export default {
           ]
         },
         {
-          "href": "https://github.com/physical-ai-humanoid-robotics-book",
+          "href": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book",
           "label": "GitHub",
           "position": "right"
         }
@@ -157,7 +158,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book"
             }
           ]
         }

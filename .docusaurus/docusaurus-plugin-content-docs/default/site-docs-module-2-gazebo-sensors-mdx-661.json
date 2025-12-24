@@ -5,10 +5,10 @@
   "source": "@site/docs/module-2-gazebo/sensors.mdx",
   "sourceDirName": "module-2-gazebo",
   "slug": "/module-2-gazebo/sensors",
-  "permalink": "/docs/module-2-gazebo/sensors",
+  "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/sensors",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-gazebo/sensors.mdx",
+  "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/docs/module-2-gazebo/sensors.mdx",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Physics Concepts in Robotics Simulation",
-    "permalink": "/docs/module-2-gazebo/physics"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/physics"
   },
   "next": {
     "title": "High-Fidelity Simulation with Unity",
-    "permalink": "/docs/module-2-gazebo/unity"
+    "permalink": "/Hackathon-Physical-AI-Humanoid-Book/docs/module-2-gazebo/unity"
   }
 }
