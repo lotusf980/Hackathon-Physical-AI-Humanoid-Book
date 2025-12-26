@@ -47,7 +47,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "routeBasePath": "docs",
+          "routeBasePath": "/docs",
           "editUrl": "https://github.com/lotusf980/Hackathon-Physical-AI-Humanoid-Book/edit/main/"
         },
         "blog": {

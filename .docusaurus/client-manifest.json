@@ -231,7 +231,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.c5a0488f.js",
-          "hash": "ffa79b0c05727d25",
+          "hash": "ca1bf85e63905f32",
           "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/runtime~main.c5a0488f.js"
         }
       ]
@@ -365,9 +365,9 @@
     "792": {
       "js": [
         {
-          "file": "assets/js/main.8eaae432.js",
-          "hash": "3e81ce90344fb4b1",
-          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/main.8eaae432.js"
+          "file": "assets/js/main.07b8b59c.js",
+          "hash": "6044eb319ce7d00b",
+          "publicPath": "/Hackathon-Physical-AI-Humanoid-Book/assets/js/main.07b8b59c.js"
         }
       ]
     },
