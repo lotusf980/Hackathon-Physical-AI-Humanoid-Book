@@ -38,10 +38,10 @@ jobs:
           fi
         done
 
-    - name: Copy PDF to build directory
+    - name: Copy PDFs to build directory
       run: |
         mkdir -p build/pdf
-        cp pdf-output/PhysicalAIHumanoidRobotics.pdf build/pdf/PhysicalAIHumanoidRobotics.pdf
+        cp -r pdf-output/*.pdf build/pdf/ || echo "No PDF files to copy, continuing..."
 
     - name: Deploy to GitHub Pages
       if: github.event_name == 'push' && github.ref == 'refs/heads/main'
