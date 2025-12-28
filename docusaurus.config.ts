@@ -14,17 +14,16 @@ const config: Config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  // For GitHub Pages deployment
+  // For Vercel deployment
   trailingSlash: true,
 
   // Set the production url of your site here
-  url: 'https://lotusf980.github.io',
+  url: 'https://humanoid-robotics-book.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is '/<repository-name>/'
-  baseUrl: '/Hackathon-Physical-AI-Humanoid-Book/',
+  // For Vercel deployment, it is '/'
+  baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
+  // Vercel deployment config.
   organizationName: 'lotusf980', // Usually your GitHub org/user name.
   projectName: 'Hackathon-Physical-AI-Humanoid-Book', // Usually your repo name.
 
